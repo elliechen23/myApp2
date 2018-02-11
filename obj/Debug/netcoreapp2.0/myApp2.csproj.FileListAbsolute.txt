@@ -1,0 +1,10 @@
+/Users/ellie/myApp2/bin/Debug/netcoreapp2.0/myApp2.deps.json
+/Users/ellie/myApp2/bin/Debug/netcoreapp2.0/myApp2.runtimeconfig.json
+/Users/ellie/myApp2/bin/Debug/netcoreapp2.0/myApp2.runtimeconfig.dev.json
+/Users/ellie/myApp2/bin/Debug/netcoreapp2.0/myApp2.dll
+/Users/ellie/myApp2/bin/Debug/netcoreapp2.0/myApp2.pdb
+/Users/ellie/myApp2/obj/Debug/netcoreapp2.0/myApp2.csproj.CoreCompileInputs.cache
+/Users/ellie/myApp2/obj/Debug/netcoreapp2.0/myApp2.AssemblyInfoInputs.cache
+/Users/ellie/myApp2/obj/Debug/netcoreapp2.0/myApp2.AssemblyInfo.cs
+/Users/ellie/myApp2/obj/Debug/netcoreapp2.0/myApp2.dll
+/Users/ellie/myApp2/obj/Debug/netcoreapp2.0/myApp2.pdb
